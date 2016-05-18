@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="NIT-A03-007D" name="OpenSource.Selenium.TestInitiate" tests="1" failures="0" timestamp="18 Apr 2016 12:54:14 GMT" time="26.869" errors="0">
+  <testcase name="TestInitiate_method" time="26.83" classname="OpenSource.Selenium.TestInitiate"/>
+</testsuite>

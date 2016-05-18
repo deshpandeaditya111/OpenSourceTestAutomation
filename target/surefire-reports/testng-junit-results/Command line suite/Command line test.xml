@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="NIT-A03-007D" name="OpenSource.Selenium.AppTest" tests="1" failures="0" timestamp="17 May 2016 12:17:59 GMT" time="0.034" errors="0">
+  <testcase name="testApp on instance testApp(OpenSource.Selenium.AppTest)" time="0.007" classname="OpenSource.Selenium.AppTest"/>
+</testsuite>
